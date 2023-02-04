@@ -21,7 +21,7 @@
 - [CSAPP(3rd): Labs](http://csapp.cs.cmu.edu/3e/labs.html)
 - [读薄/读厚 CSAPP](https://wdxtub.com/work/)
 - [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
-
+- [Course on Youtube](https://www.youtube.com/watch?v=ScMxnXq6fbI&list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x&index=1)
 ### 4. Notes
 
 
